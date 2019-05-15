@@ -37,7 +37,7 @@ var Home = function Home(props) {
       lineNumber: 8
     },
     __self: this
-  }, "go to sell")));
+  }, "Sell")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
@@ -64,4 +64,4 @@ var Home = function Home(props) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.7091675b7a06c74867e6.hot-update.js.map
+//# sourceMappingURL=index.js.373ad97cc0490e232521.hot-update.js.map

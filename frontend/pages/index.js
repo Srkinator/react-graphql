@@ -5,7 +5,7 @@ import Link from 'next/link'
 const Home = props => {
   return <div>
     <Link href="/sell">
-      <a></a>
+      <a>Sell</a>
     </Link>
   </div>
 }
