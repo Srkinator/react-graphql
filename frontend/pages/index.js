@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
-import Link from 'next/link'
+import Items from '../components/Items'
 
 
 const Home = props => {
   return <div>
-    <Link href="/sell">
-      <a>Sell</a>
-    </Link>
+    <Items />
   </div>
 }
 
