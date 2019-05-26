@@ -1,13 +1,9 @@
-import React, { Component } from 'react';
-import Link from 'next/link'
+import CreateItem from '../components/CreateItem';
 
-const Sell = props => {
-  return <div>
-    sell
-    <Link href="/">
-      <a>go to home</a>
-    </Link>
+const Sell = props => (
+  <div>
+    <CreateItem />
   </div>
-}
+);
 
-export default Sell
+export default Sell;
